@@ -1,2 +1,2 @@
 # arrays-js
-#Description:
+Description:
